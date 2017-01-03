@@ -781,11 +781,4 @@ Web 数据可视化工具
 
 <h4>英文站点</h4>
 
-待补充
-
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-* 前端大全 微博：[@前端大全](http://weibo.com/u/5261893910)
-* 前端大全：专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5 技术文章、工具资源、精选课程和Web技术领域热点资讯。
-<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
-* UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg" width=150 height=150>
-* 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg" width=150 height=150>
+待补充.......
